@@ -76,18 +76,23 @@ Aplikasi ini dibuat sebagai tugas pemrograman mobile dengan beberapa modifikasi 
 ---
 ## Screenshot Aplikasi
 a. Registrasi
+
 <img width="260" src="https://github.com/user-attachments/assets/6b326884-fcf7-41eb-864d-8c846ac893bd" />
 
 b. Login
+
 <img width="260" src="https://github.com/user-attachments/assets/d366f6b3-bcae-4213-a266-5671d0ca8681" />
 
 c. List Produk
+
 <img width="260" src="https://github.com/user-attachments/assets/c6a20516-ec90-49c0-975f-40bf363bd5f6" />
 
 d. Form Tambah Produk
+
 <img width="260" src="https://github.com/user-attachments/assets/3e28f22d-f276-49a0-89d4-e32d838220da" />
 
 e. Detail Produk
+
 <img width="260" src="https://github.com/user-attachments/assets/12cd7b27-293e-4573-83bc-049012ec3022" />
 
 ---
