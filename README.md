@@ -77,12 +77,16 @@ Aplikasi ini dibuat sebagai tugas pemrograman mobile dengan beberapa modifikasi 
 ## Screenshot Aplikasi
 a. Registrasi
 <img width="260" src="https://github.com/user-attachments/assets/6b326884-fcf7-41eb-864d-8c846ac893bd" />
+
 b. Login
 <img width="260" src="https://github.com/user-attachments/assets/d366f6b3-bcae-4213-a266-5671d0ca8681" />
+
 c. List Produk
 <img width="260" src="https://github.com/user-attachments/assets/c6a20516-ec90-49c0-975f-40bf363bd5f6" />
+
 d. Form Tambah Produk
 <img width="260" src="https://github.com/user-attachments/assets/3e28f22d-f276-49a0-89d4-e32d838220da" />
+
 e. Detail Produk
 <img width="260" src="https://github.com/user-attachments/assets/12cd7b27-293e-4573-83bc-049012ec3022" />
 
@@ -104,13 +108,13 @@ e. Detail Produk
 1. Registrasi – Request Body
 <img src="https://github.com/user-attachments/assets/4aefa0eb-c9c7-495f-a63c-34b5dd3df2f3" width="600" />
 
-2. Registrasi – Response 200 OK
+2. Login – Response 200 OK
 <img src="https://github.com/user-attachments/assets/6d4cad7e-3182-42cf-a64e-36f4f0ca88c3" width="600" />
 
-3. Login – Request Body
+3. Produk – Request Body
 <img src="https://github.com/user-attachments/assets/a1286170-778d-4c27-b2a1-2cd9cace1fca" width="600" />
 
-4. Login – Response 200 OK
+4. Produk – Response 200 OK
 <img src="https://github.com/user-attachments/assets/6fce005a-f26f-4284-9e2d-c6d0015515b3" width="600" />
 
 5. Get Produk – Response Data Produk
