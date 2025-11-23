@@ -116,16 +116,16 @@ e. Detail Produk
 2. Login – Response 200 OK
 <img src="https://github.com/user-attachments/assets/6d4cad7e-3182-42cf-a64e-36f4f0ca88c3" width="600" />
 
-3. Produk – Request Body
+3. POST Produk – Request Body
 <img src="https://github.com/user-attachments/assets/a1286170-778d-4c27-b2a1-2cd9cace1fca" width="600" />
 
-4. Produk – Response 200 OK
+4. PUT Produk – Response 200 OK
 <img src="https://github.com/user-attachments/assets/6fce005a-f26f-4284-9e2d-c6d0015515b3" width="600" />
 
-5. Get Produk – Response Data Produk
+5. DELETE Produk – Response Data Produk
 <img src="https://github.com/user-attachments/assets/bff75ca4-77e1-4a2b-a05f-79e3931b4b71" width="600" />
 
-6. Tambah Produk – Response Berhasil
+6. GET Produk – Response Berhasil
 <img src="https://github.com/user-attachments/assets/06e9b1b0-7a99-4995-9ef5-fb71d89b7b37" width="600" />
 
 
